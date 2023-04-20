@@ -10,3 +10,10 @@ All you need change in it is the token and the ID of the discord role.
 Command: !subscribe @user 7d (Will give the user tagged 7 days of the role).
 
 If the bot is stopped, it will lose track of the time so if you want you can back it up into a DB that the bot will read off of.
+
+20th of April Update -
+Subscription lenght is now custom and is in days.
+
+Example:
+!subscribe @user 5
+This will give the user the role for 5 days. 
